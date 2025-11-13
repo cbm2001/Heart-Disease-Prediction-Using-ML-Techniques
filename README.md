@@ -63,7 +63,7 @@ Cardiovascular diseases account for 32% of all deaths worldwide, making early de
 - Synthetic data generation to overcome small dataset limitations
 - Comprehensive evaluation metrics (Accuracy, Precision, Recall, F1, Specificity, AUC-ROC)
 
-## 📈 Results & Comparison
+## Results & Comparison
 
 **Performance Metrics:**
 - Training Accuracy: **98.46%**
@@ -80,7 +80,7 @@ Cardiovascular diseases account for 32% of all deaths worldwide, making early de
 **Comparison with Literature:**
 The proposed approach outperformed existing research methods across most evaluation metrics, demonstrating the effectiveness of combining DL-based feature extraction with genetic algorithm optimization.
 
-## 🔑 Key Innovations
+## Key Innovations
 
 1. **Mathematics-Driven Feature Engineering**: Applied neural extractors to learn complex feature representations automatically
 
@@ -93,9 +93,7 @@ The proposed approach outperformed existing research methods across most evaluat
 5. **Comprehensive Evaluation**: Tested on both original and augmented datasets with consistent superior performance
 
 
-
-
-## 📚 Research Contribution
+## Research Contribution
 
 This work demonstrates that:
 1. Deep learning feature extraction significantly enhances traditional medical datasets
@@ -107,4 +105,4 @@ This work demonstrates that:
 
 ---
 
-**Author**: Cheryl Biju | [GitHub](https://github.com/cbm2001) | [LinkedIn](https://linkedin.com/in/cheryl-biju)
+
